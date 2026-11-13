@@ -1,4 +1,4 @@
-# Applied AI & Data Science
+# <u>Applied AI & Data Science</u>
 
 ## Victor Miguel Hernández Maldonado
 
@@ -21,7 +21,7 @@ Mi trabajo integra la metodología científica, el análisis estadístico, el mo
 
 ---
 
-## Explore My Work | Explora mis proyectos
+## <u>Explore My Work | Explora mis proyectos</u>
 
 [Scientific Research](#scientific-research--investigación-científica) ·
 [Computer Vision](#computer-vision--visión-por-computadora) ·
@@ -45,7 +45,7 @@ Mi trabajo integra la metodología científica, el análisis estadístico, el mo
 
 ## Projects & Scientific Publications | Proyectos y publicaciones científicas
 
-### Scientific Research | Investigación científica
+### <u>Scientific Research | Investigación científica</u>
 
 #### Hospitalization Risk Stratification in Mexican Respiratory Surveillance Data
 
@@ -78,7 +78,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### Computer Vision | Visión por computadora
+### <u>Computer Vision | Visión por computadora</u>
 
 #### NutriScan — Food Recognition Using MobileNetV2
 
@@ -100,7 +100,8 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Scope | Alcance:** Experimental food image classification prototype. Nutritional estimation, personalized recommendations, and production deployment remain future development objectives.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View NutriScan on GitHub](https://github.com/vmhernann110177/nutriscan-food-recognition-mobilenetv2)
+
 
 #### Cats vs Dogs — Convolutional Neural Network
 
@@ -122,16 +123,16 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Limitations | Limitaciones:** Results come from a small educational dataset. The validation/test partitioning requires additional verification before making stronger generalization claims.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View Cats vs Dogs on GitHub](https://github.com/vmhernann110177/cats-vs-dogs-cnn)
 
 ---
 
-**EXPLORE / EXPLORAR:** 
+**EXPLORE / EXPLORAR:**  
 [Scientific Research](#scientific-research--investigación-científica) · [Computer Vision](#computer-vision--visión-por-computadora) · [Deep Learning](#deep-learning--aprendizaje-profundo) · [Applied Data Science](#applied-data-science--ciencia-de-datos-aplicada) · [Business Statistics](#business-statistics--estadística-empresarial) · [Software Development](#software-development--desarrollo-de-software)  
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### Deep Learning | Aprendizaje profundo
+### <u>Deep Learning | Aprendizaje profundo</u>
 
 #### Deep Learning Fundamentals — Heart Disease Prediction
 
@@ -155,16 +156,16 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Limitations | Limitaciones:** Educational case study. Potential duplicate-record effects and generalization performance require additional verification. Results should not be interpreted as evidence of clinical readiness.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View Deep Learning Fundamentals on GitHub](https://github.com/vmhernann110177/deep-learning-fundamentals)
 
 ---
 
-**EXPLORE / EXPLORAR:** 
+**EXPLORE / EXPLORAR:**  
 [Scientific Research](#scientific-research--investigación-científica) · [Computer Vision](#computer-vision--visión-por-computadora) · [Deep Learning](#deep-learning--aprendizaje-profundo) · [Applied Data Science](#applied-data-science--ciencia-de-datos-aplicada) · [Business Statistics](#business-statistics--estadística-empresarial) · [Software Development](#software-development--desarrollo-de-software)  
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### Applied Data Science | Ciencia de datos aplicada
+### <u>Applied Data Science | Ciencia de datos aplicada</u>
 
 #### Video Game Market Analysis — Ice | Tripleten Sprint 6
 
@@ -192,7 +193,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Limitations | Limitaciones:** Historical observational analysis; 2016 records may be incomplete. Statistical associations do not establish causality. Hypothesis tests used the broader cleaned dataset.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View Video Game Market Analysis on GitHub](https://github.com/vmhernann110177/videogames-market-analysis)
 
 #### Megaline — Telecom Revenue Optimization | Tripleten Sprint 5
 
@@ -220,7 +221,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Limitations | Limitaciones:** Observational analysis of 2018 customer records. Higher revenue does not necessarily imply higher profitability because operating, acquisition, and retention costs were unavailable. Statistical results do not establish causality.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View Megaline on GitHub](https://github.com/vmhernann110177/megaline-telecom-revenue-analysis)
 
 #### Instacart — Grocery Shopping Behavior & Data Cleaning | Tripleten Sprint 4
 
@@ -249,16 +250,16 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Limitations | Limitaciones:** Educational dataset modified from original Instacart records. Findings are descriptive; proposed business applications were not experimentally validated or deployed.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View Instacart on GitHub](https://github.com/vmhernann110177/instacart-data-cleaning-analysis)
 
 ---
 
-**EXPLORE / EXPLORAR:** 
+**EXPLORE / EXPLORAR:**  
 [Scientific Research](#scientific-research--investigación-científica) · [Computer Vision](#computer-vision--visión-por-computadora) · [Deep Learning](#deep-learning--aprendizaje-profundo) · [Applied Data Science](#applied-data-science--ciencia-de-datos-aplicada) · [Business Statistics](#business-statistics--estadística-empresarial) · [Software Development](#software-development--desarrollo-de-software)  
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### Business Statistics | Estadística empresarial
+### <u>Business Statistics | Estadística empresarial</u>
 
 #### Business Statistics — Probability Distributions & Statistical Foundations
 
@@ -284,16 +285,16 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 **Scope | Alcance:** Guided educational exercises illustrating statistical concepts rather than an independently conducted research study.
 
-**Project notebook | Notebook del proyecto:** Repository link pending publication.
+**Project notebook | Notebook del proyecto:** [View Business Statistics on GitHub](https://github.com/vmhernann110177/business-statistics-foundations)
 
 ---
 
-**EXPLORE / EXPLORAR:**
+**EXPLORE / EXPLORAR:**  
 [Scientific Research](#scientific-research--investigación-científica) · [Computer Vision](#computer-vision--visión-por-computadora) · [Deep Learning](#deep-learning--aprendizaje-profundo) · [Applied Data Science](#applied-data-science--ciencia-de-datos-aplicada) · [Business Statistics](#business-statistics--estadística-empresarial) · [Software Development](#software-development--desarrollo-de-software)  
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### Software Development | Desarrollo de software
+### <u>Software Development | Desarrollo de software</u>
 
 #### Interactive Used-Vehicle Dashboard | Panel interactivo de vehículos usados
 
@@ -320,7 +321,7 @@ https://github.com/vmhernann110177/tripleten-s7-c7-vehicles-dashboard
 
 ---
 
-**EXPLORE / EXPLORAR:**
+**EXPLORE / EXPLORAR:**  
 [Scientific Research](#scientific-research--investigación-científica) · [Computer Vision](#computer-vision--visión-por-computadora) · [Deep Learning](#deep-learning--aprendizaje-profundo) · [Applied Data Science](#applied-data-science--ciencia-de-datos-aplicada) · [Business Statistics](#business-statistics--estadística-empresarial) · [Software Development](#software-development--desarrollo-de-software)  
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
