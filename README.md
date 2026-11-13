@@ -1,4 +1,4 @@
-# <u>Applied AI & Data Science</u>
+# <ins>Applied AI & Data Science</ins>
 
 ## Victor Miguel Hernández Maldonado
 
@@ -21,7 +21,7 @@ Mi trabajo integra la metodología científica, el análisis estadístico, el mo
 
 ---
 
-## <u>Explore My Work | Explora mis proyectos</u>
+## <ins>Explore My Work | Explora mis proyectos</ins>
 
 [Scientific Research](#scientific-research--investigación-científica) ·
 [Computer Vision](#computer-vision--visión-por-computadora) ·
@@ -45,7 +45,7 @@ Mi trabajo integra la metodología científica, el análisis estadístico, el mo
 
 ## Projects & Scientific Publications | Proyectos y publicaciones científicas
 
-### <u>Scientific Research | Investigación científica</u>
+### <ins>Scientific Research | Investigación científica</ins>
 
 #### Hospitalization Risk Stratification in Mexican Respiratory Surveillance Data
 
@@ -78,7 +78,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### <u>Computer Vision | Visión por computadora</u>
+### <ins>Computer Vision | Visión por computadora</ins>
 
 #### NutriScan — Food Recognition Using MobileNetV2
 
@@ -132,7 +132,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### <u>Deep Learning | Aprendizaje profundo</u>
+### <ins>Deep Learning | Aprendizaje profundo</ins>
 
 #### Deep Learning Fundamentals — Heart Disease Prediction
 
@@ -165,7 +165,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### <u>Applied Data Science | Ciencia de datos aplicada</u>
+### <ins>Applied Data Science | Ciencia de datos aplicada</ins>
 
 #### Video Game Market Analysis — Ice | Tripleten Sprint 6
 
@@ -259,7 +259,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### <u>Business Statistics | Estadística empresarial</u>
+### <ins>Business Statistics | Estadística empresarial</ins>
 
 #### Business Statistics — Probability Distributions & Statistical Foundations
 
@@ -294,7 +294,7 @@ https://github.com/vmhernann110177/interpretable-machine-learning-hospitalizatio
 
 [↑ Index / Índice](#explore-my-work--explora-mis-proyectos) · [⌂ Start / Inicio](#applied-ai--data-science)
 
-### <u>Software Development | Desarrollo de software</u>
+### <ins>Software Development | Desarrollo de software</ins>
 
 #### Interactive Used-Vehicle Dashboard | Panel interactivo de vehículos usados
 
