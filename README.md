@@ -21,7 +21,7 @@ Mi trabajo integra la metodología científica, el análisis estadístico, el mo
 
 ---
 
-## <u>Explore My Work | Explora mis proyectos</u>
+## Explore My Work | Explora mis proyectos
 
 [Scientific Research](#scientific-research--investigación-científica) ·
 [Computer Vision](#computer-vision--visión-por-computadora) ·
